@@ -20,8 +20,8 @@ Desktop Organizer is a Python-based application designed to help you keep your d
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/desktop-organizer.git
-    cd desktop-organizer
+    git clone https://github.com/vhiii/desktoporganizer.git
+    cd desktoporganizer
     ```
 
 2. (Optional) Create a virtual environment:
@@ -58,8 +58,8 @@ If you prefer to run the Python script directly, follow these steps (ensure Pyth
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/desktop-organizer.git
-    cd desktop-organizer
+    git clone https://github.com/vhiii/desktoporganizer.git
+    cd desktoporganizer
     ```
 
 2. (Optional) Create a virtual environment:
