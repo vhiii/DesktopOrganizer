@@ -2,6 +2,7 @@
 Desktop Organizer is a Python-based application that helps you organize files on your desktop by moving them into categorized folders. This application can sort files by type (e.g., documents, images, videos) and place them into corresponding folders to keep your desktop neat and organized.
 
 ## Features
+
 -Automatically organize desktop files into folders by file type.
 -Customizable folder names and types. 
 -Simple and easy-to-use interface. 
