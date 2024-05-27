@@ -85,5 +85,6 @@ If you prefer to run the Python script directly, follow these steps (ensure Pyth
 
 When using the Python script directly, you can customize its behavior with command-line arguments:
 
-```sh
-python desktoporganizer.py --source "C:\Path\To\Desktop" --dest "C:\Path\To\OrganizedFolder"
+    python desktoporganizer.py --source "C:\Path\To\Desktop" --dest "C:\Path\To\OrganizedFolder"
+- '--source': Specify the source directory
+- '--dest': Specify the destination directory for organized folders. 
