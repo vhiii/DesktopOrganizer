@@ -47,5 +47,6 @@ If you have downlaoded the executable ('desktoporganizerGUI.exe'), simply double
 
 ### Command Line
 If using the pyhton script directly, you can customize its behavior with command-line arguments:
-'''sh
-python desktoporganizerGUI.py --source "C:\Path\To\Desktop" --dest "C:\Path\To\OrganizedFolder"
+    '''sh
+    python desktoporganizerGUI.py --source "C:\Path\To\Desktop" --dest "C:\Path\To\OrganizedFolder"
+    '''
